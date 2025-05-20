@@ -1,6 +1,13 @@
-## Hi there 👋
 
-<!--
+![27451](https://github.com/user-attachments/assets/89fb5c74-4476-498f-88bc-d210d1f66567)
+## 🥑 Glorp!
+
+Hi, I'm GooeyAvocado! I'm a googgo with some melty interests, and a passion for coding. Please do take a look at our main work, Chamomille!
+
+Thanks for stopping by :3
+
+<!--!
+
 **GooeyAvocado/GooeyAvocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
